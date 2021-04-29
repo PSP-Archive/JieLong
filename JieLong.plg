@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: JieLong - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP5.tmp" with contents
+[
+/nologo /MD /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/JieLong.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\PSP\libnge2r157\Viva\JieLong\JieLong.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP5.tmp" 
+Creating command line "link.exe libnge2.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/JieLong.pdb" /debug /machine:I386 /nodefaultlib:"libc" /out:"Debug/JieLong.exe" /pdbtype:sept  .\Debug\JieLong.obj "
+<h3>Output Window</h3>
+Compiling...
+JieLong.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+JieLong.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
